@@ -5,7 +5,6 @@ import (
 	"log"
 	"net/http"
 	"encoding/json"
-	"github.com/gorilla/mux"
 )
 
 type Article struct {
